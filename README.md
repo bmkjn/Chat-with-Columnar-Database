@@ -31,13 +31,8 @@ This is a tool designed to help users query and analyze advertising campaign dat
 
 2. **Install Dependencies:**
 
-   Create a virtual environment and install required packages:
+   Create a virtual environment and install required packages
 
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   pip install -r requirements.txt
-   ```
 
 3. **Environment Variables:**
 
@@ -60,11 +55,8 @@ This is a tool designed to help users query and analyze advertising campaign dat
 
 2. **Run the Script:**
 
-   Execute the main script to start the data analysis process:
+   Execute the ChatwithDatabase.ipynb to start the data analysis process:
 
-   ```bash
-   python main.py
-   ```
 
 3. **Query Examples:**
 
