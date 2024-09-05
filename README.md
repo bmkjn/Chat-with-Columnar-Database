@@ -25,8 +25,8 @@ This is a tool designed to help users query and analyze advertising campaign dat
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/advertising-data-analysis-agent.git
-   cd advertising-data-analysis-agent
+   git clone https://github.com/bmkjn/Chat-with-Columnar-Database.git
+   cd Chat-with-Columnar-Database
    ```
 
 2. **Install Dependencies:**
